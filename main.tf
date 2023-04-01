@@ -4,7 +4,7 @@ variable "image" {
 }
 
 variable "hw" {
-  default = "t2.micro"
+  default = "t2.nano"
 }
 
 variable "key" {
